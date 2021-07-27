@@ -1,0 +1,26 @@
+{
+  "name": "base-style",
+  "version": "1.0.0",
+  "description": "基于scss语法编写的前端样式基础库",
+  "main": "_index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "样式库",
+    "style",
+    "base",
+    "css",
+    "scss"
+  ],
+  "author": "DSS",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuanShuaiShuai/base-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DuanShuaiShuai/base-style/issues"
+  },
+  "homepage": "https://github.com/DuanShuaiShuai/base-style#readme"
+}
