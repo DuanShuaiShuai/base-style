@@ -1,5 +1,5 @@
 {
-  "name": "base-style",
+  "name": "web-style-base",
   "version": "1.0.0",
   "description": "基于scss语法编写的前端样式基础库",
   "main": "_index.css",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/DuanShuaiShuai/base-style/issues"
   },
-  "homepage": "https://github.com/DuanShuaiShuai/base-style#readme"
+  "homepage": "https://github.com/DuanShuaiShuai/base-style#readme",
+  "devDependencies": {
+    "sass": "^1.36.0"
+  }
 }
