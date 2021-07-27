@@ -1,14 +1,16 @@
 # 使用说明
+
 - 在使用前根据自己的项目定义变量`$colors`、`$gaps`、`$levels`，这样自定义的颜色等值会覆盖默认的设置（`/src/_variable.scss`）。
-- 样式是有scss编写,引入项目中要有处理scss文件的能力（sass-lodaer、node-sass）
+- 样式是有 scss 编写,引入项目中要有处理 scss 文件的能力（sass-lodaer、node-sass）
 - 引入方式
   ```scss
   // 全局引入
-  @import "base-style/index.scss";
+  @import "web-style-base";
   // 按需引入
-  @import "base-style/base/font.scss"
+  @import "web-style-base/base/font";
   ```
-- 具体包含的原子类、sass变量请认真阅读以下内容
+- 具体包含的原子类、sass 变量请认真阅读以下内容
+
 ## 文档
 
 **目录**
